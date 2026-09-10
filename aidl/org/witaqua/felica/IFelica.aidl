@@ -1,0 +1,1 @@
+../../../../../../../packages/modules/Nfc/NfcNci/aidl/org/witaqua/felica/IFelica.aidl

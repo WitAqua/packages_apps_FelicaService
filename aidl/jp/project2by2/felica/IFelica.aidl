@@ -1,1 +1,0 @@
-../../../../../../../packages/modules/Nfc/NfcNci/aidl/jp/project2by2/felica/IFelica.aidl
