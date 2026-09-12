@@ -1,1 +1,0 @@
-../../../../../Nfc/src/org/felica_droid/felica/IFelica.aidl
