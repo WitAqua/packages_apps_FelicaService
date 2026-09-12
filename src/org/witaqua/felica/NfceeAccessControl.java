@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.felica_droid.felica;
+package org.witaqua.felica;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;

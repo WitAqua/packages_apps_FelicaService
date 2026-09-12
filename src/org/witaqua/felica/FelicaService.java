@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: Apache-2.0
 //
 
-package org.felica_droid.felica;
+package org.witaqua.felica;
 
 import android.app.Application;
 import android.os.Binder;
@@ -22,7 +22,7 @@ public final class FelicaService extends Application {
     private static final String TAG = "FelicaService";
 
     private static final String FRONTEND_SERVICE = "felica";
-    private static final String BACKEND_SERVICE = "org.felica_droid.felica.IFelica/default";
+    private static final String BACKEND_SERVICE = "org.witaqua.felica.IFelica/default";
 
     private static final int ERROR_NONE = 0;
     private static final int ERROR_FAILED = -99;

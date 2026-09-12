@@ -1,0 +1,1 @@
+../../../../../Nfc/aidl/org/witaqua/felica/IFelica.aidl
